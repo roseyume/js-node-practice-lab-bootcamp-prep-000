@@ -8,7 +8,7 @@ First things first, let's run the code we are given. That should always be your 
 
 ```
 Name:
-Rosie
+Joe
 Height:
 74
 ```
